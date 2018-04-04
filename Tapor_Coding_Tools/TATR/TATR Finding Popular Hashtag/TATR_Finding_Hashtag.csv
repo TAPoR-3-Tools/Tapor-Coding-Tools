@@ -1,0 +1,4 @@
+Date,Hashtag,most_popular_hashtag,popular_hashtag_percent
+2018-01-01,"['Twitter', 'Twitter', 'New2018', 'JupyterLearning', 'Twitter', 'Twitter', 'New2018', 'JupyterLearning', 'TwitterApp', 'Twitter', 'New2018', 'JupyterLearning']",Twitter,41.67
+2018-02-01,"['Twitter', 'New2018', 'Twitter', 'New2018', 'JupyterLearning', 'Twitter', 'Twitter', 'Twitter', 'New2018', 'JupyterLearning', 'TwitterApp']",Twitter,45.45
+2018-03-01,"['Twitter', 'New2018', 'Twitter', 'New2018', 'Twitter', 'Twitter', 'New2018', 'JupyterLearning', 'Twitter', 'New2018', 'JupyterLearning']",Twitter,45.45
