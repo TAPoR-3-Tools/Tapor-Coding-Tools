@@ -1,4 +1,4 @@
 Date,Hashtag,most_popular_hashtag,popular_hashtag_percent
-2018-01-01,"['Twitter', 'TwitterApp', 'New2018', 'GenericTwitterNews', 'TwitterApp', 'JupyterLearning', 'New2018', 'GenericTwitterNews', 'Twitter', 'New2018']",New2018,30.00
-2018-02-01,"['New2018', 'Twitter', 'New2018', 'GenericTwitterNews', 'Twitter', 'JupyterLearning', 'JupyterLearning', 'TwitterApp', 'GenericTwitterNews', 'GenericTwitterNews']",GenericTwitterNews,30.00
-2018-03-01,"['JupyterLearning', 'New2018', 'TwitterApp', 'JupyterLearning', 'GenericTwitterNews', 'Twitter', 'New2018']",New2018,28.57
+2018-01-01,"['TwitterApp', 'New2018', 'New2018', 'Twitter', 'TwitterApp', 'GenericTwitterNews', 'GenericTwitterNews', 'New2018', 'Twitter', 'GenericTwitterNews']",GenericTwitterNews,30.00
+2018-02-01,"['GenericTwitterNews', 'GenericTwitterNews', 'Twitter', 'Twitter', 'Twitter', 'JupyterLearning', 'Twitter', 'New2018', 'New2018', 'New2018', 'GenericTwitterNews', 'New2018', 'JupyterLearning']",New2018,30.77
+2018-03-01,"['TwitterApp', 'JupyterLearning', 'GenericTwitterNews', 'New2018', 'Twitter', 'TwitterApp', 'JupyterLearning', 'JupyterLearning', 'New2018']",JupyterLearning,33.33
