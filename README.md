@@ -29,15 +29,6 @@ TaDiRAH Taxonomy
 With the integration of DiRT Directory, TAPoR has made use of the TaDiRAH Goals & Methods tags, to better cateogrize the tools. 
 
 Click here to see TaDiRAH Taxonomy's Goals & Methods explained. For more information about TaDiRAH Taxonomy, visit  http://tadirah.dariah.eu
- 
-Contribute
-We have designed TAPoR 3.0 so you can contribute.
-
-    If you like a tool please use the rating system to vote for it.
-    Registered users can add tags to help people find and understand tools.
-    If you have something to say about a tool please enter a comment on the tool. You can use this to tell us how you use the tool, tell people about bugs, ask for features or link to related materials. An account is now required to leave a comment. Please contact the TAPoR team for an account.
-    Create lists of tools that you use together or that complement each other. Again an account is needed.
-    If you want to add a tool or write a longer review please email us: Geoffrey Rockwell, University of Alberta; or Stéfan Sinclair, McGill University.
     
 Interface design by Milena Radzikowska. Others who have contributed significantly include Kirsten Uszkalo, James Chartrand (and Open Sky Solutions), Omar Rodriquez-Arenas, Kamal Ranaweera, Mark McKellar, Amy Dyrbye, Kaitlyn Grant, Holly H. Pickering, Chaolan Wu, Jingwei Wang, Kynan Ly, Antony Owino, Jason Bradshaw, Jinman Zhang, Robert Budac, Quinn Dombrowski, Shawn Day, and Lisa Goddard.     
     
