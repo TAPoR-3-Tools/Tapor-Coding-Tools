@@ -1,5 +1,5 @@
 # Tapor-Coding-Tools
-Welcome to the Tapor Coding Tools github. The project is led by Geoffrey Rockwell, Stéfan Sinclair, and Milena Radzikowska and housed at the University of Alberta. Support for this project came from Compute Canada Calcul: Westgrid the Canadian Institute for Research Computing in the Arts, University of Alberta, the Social Science and Humanities Research Council and the Canada Foundation for Innovation.
+Welcome to the Tapor Coding Tools github. The project is led by Geoffrey Rockwell and Milena Radzikowska and housed at the University of Alberta. Support for this project came from Compute Canada Calcul: Westgrid the Canadian Institute for Research Computing in the Arts, University of Alberta, the Social Science and Humanities Research Council and the Canada Foundation for Innovation. We remember Stéfan Sinclair whose left us too soon.
  
 This gituhb is directly assoicated with TAPoR (http://tapor.ca/home)
 
